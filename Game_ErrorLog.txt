@@ -1,0 +1,32 @@
+The auto-tile [MapChip/[A]Flower_pipo.png] is smaller than the set size! => W16 x H80 Pixels (Set 32 x 160)
+There is a possiblity of shutdown errors.
+[Tileset settings] Please select a supported file for tiles
+--------------------
+The auto-tile [MapChip/[A]Snow_pipo.png] is smaller than the set size! => W16 x H80 Pixels (Set 32 x 160)
+There is a possiblity of shutdown errors.
+[Tileset settings] Please select a supported file for tiles
+--------------------
+The auto-tile [MapChip/[A]Snow_Grass4_pipo.png] is smaller than the set size! => W16 x H80 Pixels (Set 32 x 160)
+There is a possiblity of shutdown errors.
+[Tileset settings] Please select a supported file for tiles
+--------------------
+The auto-tile [MapChip/[A]Snow_Dirt2_pipo.png] is smaller than the set size! => W16 x H80 Pixels (Set 32 x 160)
+There is a possiblity of shutdown errors.
+[Tileset settings] Please select a supported file for tiles
+--------------------
+The auto-tile [MapChip/[A]Ice2_pipo.png] is smaller than the set size! => W16 x H80 Pixels (Set 32 x 160)
+There is a possiblity of shutdown errors.
+[Tileset settings] Please select a supported file for tiles
+--------------------
+The auto-tile [MapChip/[A]Dirt1-Dirt2_pipo.png] is smaller than the set size! => W16 x H80 Pixels (Set 32 x 160)
+There is a possiblity of shutdown errors.
+[Tileset settings] Please select a supported file for tiles
+--------------------
+The auto-tile [MapChip/[A]Wall-Up1_pipo.png] is smaller than the set size! => W16 x H80 Pixels (Set 32 x 160)
+There is a possiblity of shutdown errors.
+[Tileset settings] Please select a supported file for tiles
+--------------------
+The auto-tile [MapChip/[A]Wall-Up2_pipo.png] is smaller than the set size! => W16 x H80 Pixels (Set 32 x 160)
+There is a possiblity of shutdown errors.
+[Tileset settings] Please select a supported file for tiles
+--------------------
