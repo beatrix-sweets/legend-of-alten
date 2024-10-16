@@ -23,28 +23,3 @@ MIDI Read Error
 
 
 --------------------
-MIDI Read Error
-[Initialize] Cannot locate MIDI file type 1-0:BGM/Town01_Takumi.mid 
-
-
---------------------
-MIDI Read Error
-[Initialize] Cannot locate MIDI file type 1-1:BGM/Piece01_Takumi.mid 
-
-
---------------------
-MIDI Read Error
-[Initialize] Cannot locate MIDI file type 1-2:BGM/Legend01_Takumi.mid 
-
-
---------------------
-MIDI Read Error
-[Initialize] Cannot locate MIDI file type 1-3:BGM/Battle01_Juno.mid 
-
-
---------------------
-MIDI Read Error
-[Initialize] Cannot locate MIDI file type 1-4:BGM/Boss01_Kagamiyomi.mid 
-
-
---------------------
